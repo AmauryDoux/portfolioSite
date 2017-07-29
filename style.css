@@ -106,6 +106,15 @@ svg {
     width: 100%;
 }
 
+.projects {
+    height: 15%;
+    margin: 2% 10%;
+}
+
+/*.hackathonTouImg {
+    height: 100%;
+    width: 100%;
+}*/
 
 /*---------End Projects Section---------*/
 
