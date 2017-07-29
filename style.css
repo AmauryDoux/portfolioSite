@@ -15,6 +15,13 @@ h3 {
     font-weight: bold;
 }
 
+svg {
+    width: 15%;
+    height: 15%;
+    margin: 2% 10%;
+}
+
+
 
 /*---------Cover---------*/
 
@@ -79,7 +86,7 @@ h3 {
 /*---------Skills Section---------*/
 
 #skillsSection {
-    height: 50%;
+    height: 60%;
     width: 100%;
     background-color: #F1F1F1;
 }
